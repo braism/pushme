@@ -1,10 +1,13 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-<a href="https://t.me/+JnYOz5LSA6I5OWIx"> ➡️ <b>JOIN GROUP</b> ⬅️</a>
+<a href="https://t.me/+gnSmEK-d0VE3ZWFh"> ➡️ <b>JOIN GROUP</b> ⬅️</a>
     
 Follow this link:
-<a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/DeepWeb</a>
+<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/DeepWeb</a>
     """
-    USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
-    WAIT_MSG = "<b>Please Wait...</b>"
-    REPLY_ERROR = "<code>Use this command as a replay to any telegram message with out any spaces.</code>"
+    """
+Please, don't share the content!
+    """
+    USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
+    WAIT_MSG = "<b>Espera!</b>"
+    REPLY_ERROR = "<code>Así no weey!</code>"
