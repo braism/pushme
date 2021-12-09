@@ -5,8 +5,11 @@ class Presets(object):
 🔒 <b>DeepWeb</b><br>
 <a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/DeepWeb</a>
 
-🔞 <b>XVideos</b><br>
+🔞 <b>PORNO KING</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
+
+💦 <b>Oral & Blowjob 👅</b><br>
+<a href="https://t.me/+1Sj-bWCGfsJmMmMx">https://t.me/OralBlows</a>
 
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
