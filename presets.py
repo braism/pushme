@@ -8,11 +8,14 @@ class Presets(object):
 🔞 <b>PORNO KING</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
 
-💦 <b>Oral & Blowjob 👅</b><br>
+👅 <b>Oral & Blowjob </b><br>
 <a href="https://t.me/+1Sj-bWCGfsJmMmMx">https://t.me/OralBlows</a>
 
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
+
+🎥 <b>YouPorn</b><br>
+<a href="https://t.me/+L07__5JsFU82ODQx">https://t.me/YouPorn</a>
 
 💦 <b>Cumshots</b><br>
 <a href="https://t.me/+hHTvTg5qTa80YTYx">https://t.me/Cumshots</a>
