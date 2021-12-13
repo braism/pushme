@@ -12,7 +12,7 @@ class Presets(object):
 <a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/TikTokPorn</a>
 
 👅 <b>ONYLFANS </b><br>
-<a href="https://t.me/+23rOPRQIdQdkOWRk">https://t.me/OnlyFanX</a>
+<a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFanX</a>
 
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
