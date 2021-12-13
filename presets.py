@@ -20,8 +20,8 @@ class Presets(object):
 💦 <b>TikTok Porn</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/TikPorn</a>
 
-🎥 <b>Brazzers</b><br>
-<a href="https://t.me/+L07__5JsFU82ODQx">https://t.me/Brazzers</a>
+🎥 <b>FAKE HUB | FAKE TAXI</b><br>
+<a href="https://t.me/+L07__5JsFU82ODQx">https://t.me/sexhub</a>
 
 🔞 <b>TIKTOK GIRL</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XXXTOK</a>
