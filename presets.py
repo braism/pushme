@@ -5,7 +5,7 @@ class Presets(object):
 🔒 <b>DeepWeb</b><br>
 <a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/DeepWeb</a>
 
-🔞 <b>PORN KING</b><br>
+🔞 <b>XVideos</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
 
 🔥 <b>TikTok Naked</b><br>
@@ -17,11 +17,14 @@ class Presets(object):
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
 
+💦 <b>TikTok Porn</b><br>
+<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/TikPorn</a>
+
 🎥 <b>Brazzers</b><br>
 <a href="https://t.me/+L07__5JsFU82ODQx">https://t.me/Brazzers</a>
 
-💦 <b>Cumshots</b><br>
-<a href="https://t.me/+hHTvTg5qTa80YTYx">https://t.me/Cumshots</a>
+🔞 <b>TIKTOK GIRL</b><br>
+<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XXXTOK</a>
     """
     USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
     WAIT_MSG = "<b>Espera!</b>"
