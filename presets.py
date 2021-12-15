@@ -9,18 +9,18 @@ class Presets(object):
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
 
 🔞 <b>SexPlay</b><br>
-<a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/TikTokPorn</a>
+<a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/SexPlay</a>
 
 👅 <b>PornHub </b><br>
-<a href="https://t.me/+bhhyuq9AdQFhOGEx">https://t.me/OnlyFanX</a>
+<a href="https://t.me/+bhhyuq9AdQFhOGEx">https://t.me/PornHub</a>
 
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
 
 💦 <b>OnlyFans</b><br>
-<a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/TikPorn</a>
+<a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFansX</a>
 
-🔥 <b>TikTok Naked</b><br>
+🔞 <b>TikTok Naked</b><br>
 <a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/sexhub</a>
     """
     USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
