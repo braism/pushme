@@ -21,7 +21,7 @@ class Presets(object):
 <a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFansX</a>
 
 🔞 <b>TikTok Naked</b><br>
-<a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/sexhub</a>
+<a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/TikTokX</a>
     """
     USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
     WAIT_MSG = "<b>Espera!</b>"
