@@ -5,26 +5,23 @@ class Presets(object):
 🔒 <b>DeepWeb</b><br>
 <a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/DeepWeb</a>
 
-🔞 <b>XVideos</b><br>
-<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
+🔥 <b>XVideos</b><br>
+<a href="https://t.me/+bhhyuq9AdQFhOGEx">https://t.me/XVideos</a>
 
-🔥 <b>TikTok Naked</b><br>
-<a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/TikTokPorn</a>
+🔞 <b>SexPlay</b><br>
+<a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/TikTokPorn</a>
 
-👅 <b>ONYLFANS </b><br>
-<a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFanX</a>
+👅 <b>Brazzers </b><br>
+<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/OnlyFanX</a>
 
 🍑 <b>MILF Videos </b><br>
 <a href="https://t.me/+XHFvOQJzLmcyMjU5">https://t.me/MilfHD</a>
 
-💦 <b>TikTok Porn</b><br>
-<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/TikPorn</a>
+💦 <b>OnlyFans</b><br>
+<a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/TikPorn</a>
 
-🎥 <b>FAKE HUB | FAKE TAXI</b><br>
-<a href="https://t.me/+L07__5JsFU82ODQx">https://t.me/sexhub</a>
-
-🔞 <b>TIKTOK GIRL</b><br>
-<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XXXTOK</a>
+🔥 <b>TikTok Naked</b><br>
+<a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/sexhub</a>
     """
     USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
     WAIT_MSG = "<b>Espera!</b>"
