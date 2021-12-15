@@ -20,6 +20,9 @@ class Presets(object):
 💦 <b>OnlyFans</b><br>
 <a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFansX</a>
 
+🤑 <b>Porn Money</b><br>
+<a href="https://t.me/+hER_1NrPAE5iYWJh">https://t.me/XXMoney</a>
+
 🔞 <b>TikTok Naked</b><br>
 <a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/TikTokX</a>
     """
