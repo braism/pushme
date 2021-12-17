@@ -3,13 +3,10 @@ class Presets(object):
 <b>👇🏼 TOP +18 GROUPS 👇🏼</b>
 <br><br>
 🔒 <b>DeepWeb</b><br>
-<a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/DeepWeb</a>
+<a href="https://t.me/+oq71_gBfebhjZTAx">https://t.me/DeepWeb</a>
 
 🔥 <b>XVideos</b><br>
 <a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
-
-🔞 <b>SexPlay</b><br>
-<a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/SexPlay</a>
 
 👅 <b>PornHub </b><br>
 <a href="https://t.me/+bhhyuq9AdQFhOGEx">https://t.me/PornHub</a>
@@ -19,6 +16,9 @@ class Presets(object):
 
 💦 <b>OnlyFans</b><br>
 <a href="https://t.me/+07bslZ6EAlNkNzdk">https://t.me/OnlyFansX</a>
+
+🔞 <b>Brazzers</b><br>
+<a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/Premium</a>
 
 🍆 <b>Oral & Blowjob</b><br>
 <a href="https://t.me/+1Sj-bWCGfsJmMmMx">https://t.me/OralXXX</a>
