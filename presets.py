@@ -21,7 +21,7 @@ class Presets(object):
 <a href="https://t.me/+Hq_je5jIoYk5NDI5">https://t.me/Premium</a>
 
 🍆 <b>Oral & Blowjob</b><br>
-<a href="https://t.me/+1Sj-bWCGfsJmMmMx">https://t.me/OralXXX</a>
+<a href="https://t.me/+DjjRZ-0kcy0wNzE5">https://t.me/OralXXX</a>
 
 🔞 <b>TikTok Naked</b><br>
 <a href="https://t.me/+VnnuG02VKbplZWIx">https://t.me/TikTokX</a>
