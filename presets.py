@@ -6,7 +6,7 @@ class Presets(object):
 <a href="https://t.me/+oq71_gBfebhjZTAx">https://t.me/DeepWeb</a>
 
 🔥 <b>XVideos</b><br>
-<a href="https://t.me/+gnSmEK-d0VE3ZWFh">https://t.me/XVideos</a>
+<a href="https://t.me/+uyoLxErod_5lZWZh">https://t.me/XVideos</a>
 
 👅 <b>PornHub </b><br>
 <a href="https://t.me/+bhhyuq9AdQFhOGEx">https://t.me/PornHub</a>
