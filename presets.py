@@ -3,28 +3,28 @@ class Presets(object):
 <b>👇🏼 TOP +18 GROUPS 👇🏼</b>
 <br><br>
 🔒 <b>DeepWeb</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/DeepWeb</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/DeepWeb</a>
 
 🔥 <b>XVideos</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/XVideos</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/XVideos</a>
 
 👅 <b>PornHub </b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/PornHub</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/PornHub</a>
 
 🍑 <b>MILF Videos </b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/MilfHD</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/MilfHD</a>
 
 💦 <b>OnlyFans</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/OnlyFansX</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/OnlyFansX</a>
 
 🔞 <b>Brazzers</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/Premium</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/Premium</a>
 
 🍆 <b>Oral & Blowjob</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/OralXXX</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/OralXXX</a>
 
 🔞 <b>TikTok Naked</b><br>
-<a href="https://telegr.im/joinchat/uyoLxErod5lZWZh">https://t.me/TikTokX</a>
+<a href="https://telegr.im/+uyoLxErod5lZWZh">https://t.me/TikTokX</a>
     """
     USERS_LIST = "<b>Total:</b>\n\nSlaves - {}\nSe fueron - {}"
     WAIT_MSG = "<b>Espera!</b>"
