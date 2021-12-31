@@ -15,7 +15,7 @@ class Presets(object):
 <a href="https://t.me/+uyoLxErod_5lZWZh">https://t.me/OnlyFansX</a>
 
 🔞 <b>Brazzers</b><br>
-<a href="https://t.me/+U5u7NkJ3cAAwYTk0">https://t.me/Premium</a>
+<a href="https://t.me/+NWBvfS9JhFs2NmE0">https://t.me/Premium</a>
 
 🍆 <b>Oral & Blowjob</b><br>
 <a href="https://t.me/+JnYOz5LSA6I5OWIx">https://t.me/OralXXX</a>
