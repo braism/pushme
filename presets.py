@@ -14,7 +14,7 @@ class Presets(object):
 💦 <b>OnlyFans</b><br>
 <a href="https://t.me/+lsRfu8N9qQczMzIx">https://t.me/OnlyFansX</a>
 
-🌭 <b>Brazzers</b><br>
+🌭 <b>Hotdog</b><br>
 <a href="https://t.me/+SzUUm_K2HIo0NTgx">https://t.me/Premium</a>
 
 🍆 <b>Oral & Blowjob</b><br>
